@@ -1,1 +1,3 @@
 # BlackDesert-WEB
+
+Authentication website.
